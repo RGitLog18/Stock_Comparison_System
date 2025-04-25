@@ -1,0 +1,57 @@
+[
+    {
+        "company": "Taiwan Semiconductor",
+        "ticker": "TSM",
+        "button": 0,
+        "identify":1
+    },
+    {
+        "company": "Bank of Nova Scotia",
+        "ticker": "BNS",
+        "button": 1,
+        "identify":1
+    },
+    {
+        "company": "AstraZeneca ADR",
+        "ticker": "AZN",
+        "button": 2,
+        "identify":1
+    },
+    {
+        "company": "Amazon.com Inc.",
+        "ticker": "AMZN",
+        "button": 3,
+        "identify":1
+    },
+    {
+        "company": "Meta Platforms Inc (Facebook)",
+        "ticker": "Meta",
+        "button": 4,
+        "identify":1
+
+    },
+    {
+        "company": "NVIDIA Corporation",
+        "ticker": "TSM",
+        "button": 5,
+        "identify":1
+    },
+    {
+        "company": "JPMORgan Chase & CO.",
+        "ticker": "JPM",
+        "button": 6,
+        "identify":1
+    },
+    {
+        "company": "Johnson & Johnson",
+        "ticker": "JNJ",
+        "button": 7,
+        "identify":1
+    },
+    {
+        "company": "Apple Inc.",
+        "ticker": "APPL",
+        "button": 9,
+        "identify":1
+    }
+]

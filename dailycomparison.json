@@ -1,0 +1,62 @@
+[
+    {"company": "Reliance Industry Ltd.",
+        "ticker": "RELIANCE.BSE",
+        "button": 0,
+        "identify":1
+    },
+    {
+        "company": "Tata Consultancy Service",
+        "ticker": "TCS.BSE",
+        "button": 1,
+        "identify":1
+    },
+    {
+        "company": "Infosys Ltd.",
+        "ticker": "INFY.BSE",
+        "button": 2,
+        "identify":1
+    },
+    {
+        "company": "HDFC Bank Ltd.",
+        "ticker": "HDFCBANK.BSE",
+        "button": 3,
+        "identify":1
+    },
+    {
+        "company": "ICICI Bank Ltd.",
+        "ticker": "ICICIBANK.BSE",
+        "button": 4,
+        "identify":1
+    },
+    {
+        "company": "StateBank of India(SBI)",
+        "ticker": "SBIN.BSE",
+        "button": 5,
+        "identify":1
+    },
+    {
+        "company": "Larsen & Tourbo Ltd.",
+        "ticker": "LT.BSE",
+        "button": 6,
+        "identify":1
+    },
+    {
+        "company": "ITC Ltd.",
+        "ticker": "ITC.BSE",
+        "button": 7,
+        "identify":1
+    },
+    {
+        "company": "Bajaj FInance Ltd.",
+        "ticker": "BAJFINANCE.BSE",
+        "button": 8,
+        "identify":1
+    },
+    {
+        "company": "Hidustan Unilever Ltd.",
+        "ticker": "HINDUNILVR.BSE",
+        "button": 9,
+        "identify":1
+    }
+    
+]
