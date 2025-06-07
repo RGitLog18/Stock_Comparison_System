@@ -2,7 +2,6 @@
 
 A comprehensive desktop application for managing school operations with role-based access control, built with Java Swing and MySQL.
 
-![Admin Dashboard](https://via.placeholder.com/800x500/3a86ff/ffffff?text=Admin+Dashboard) *(Replace with actual screenshot)*
 
 ## ✨ Key Features
 
